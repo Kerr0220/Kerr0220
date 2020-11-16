@@ -1,4 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kerr0220&show_icons=true&bg_color=DEG,#af34a8,#8234ad,#5234ad,#3446ad,#3476ad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kerr0220&show_icons=true&bg_color=DEG,af34a8,8234ad,5234ad,3446ad,s3476ad)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerr0220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
