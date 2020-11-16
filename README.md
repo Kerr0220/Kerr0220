@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kerr0220)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Kerr0220/Kerr0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
