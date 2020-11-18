@@ -7,7 +7,7 @@
   </h3>
 </p>
 
-<p align="center"><img url=https://github-readme-stats.vercel.app/api?username=Kerr0220&show_icons=true&bg_color=DEG,af34a8,34ad9b&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats"></p>
+<p align="center"><img url="https://github-readme-stats.vercel.app/api?username=Kerr0220&show_icons=true&bg_color=DEG,af34a8,34ad9b&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats"></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerr0220&layout=compact&bg_color=DEG,65a7d6,8ebee0,b6d5eb&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
