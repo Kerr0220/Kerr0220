@@ -1,9 +1,9 @@
 <p align="center">
   <h2 align="center">
-      This is Kerr Zhang😎
+      This is Yiteng Zhang😎
   </h2>
   <h3 align="center">
-      From Tongji University
+      From University Of Illinois Urbana-Champaign
   </h3>
 </p>
 
