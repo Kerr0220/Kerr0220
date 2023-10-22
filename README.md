@@ -1,12 +1,15 @@
-<!--
 <p align="center">
   <h2 align="center">
-      This is Yiteng Zhang😎
+      This is Yiteng Zhang
   </h2>
   <h3 align="center">
       From University Of Illinois Urbana-Champaign
   </h3>
+  <h3 align="center">
+      Master of Computer Science
+  </h3>
 </p>
+<!--
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kerr0220&show_icons=true&bg_color=DEG,af34a8,34ad9b&text_color=ffffff&title_color=ffffff&icon_color=ffffff" align="center">
